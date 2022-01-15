@@ -1,1 +1,1 @@
-## Little doc for setup @reduxjs-toolkit using Typescript
+## Little example for setup @reduxjs-toolkit using Typescript on RN project
